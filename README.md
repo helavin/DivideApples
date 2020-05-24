@@ -1,1 +1,2 @@
-# DivideApples
+﻿# DivideApples
+ТЗ
