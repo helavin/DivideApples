@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\helavin\\source\\repos\\Apples\\Apples\\Apples.csproj": {}
+    "C:\\Users\\helavin\\Source\\Repos\\helavin\\DivideApples\\Apples\\Apples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\helavin\\source\\repos\\Apples\\Apples\\Apples.csproj": {
+    "C:\\Users\\helavin\\Source\\Repos\\helavin\\DivideApples\\Apples\\Apples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\helavin\\source\\repos\\Apples\\Apples\\Apples.csproj",
+        "projectUniqueName": "C:\\Users\\helavin\\Source\\Repos\\helavin\\DivideApples\\Apples\\Apples.csproj",
         "projectName": "Apples",
-        "projectPath": "C:\\Users\\helavin\\source\\repos\\Apples\\Apples\\Apples.csproj",
+        "projectPath": "C:\\Users\\helavin\\Source\\Repos\\helavin\\DivideApples\\Apples\\Apples.csproj",
         "packagesPath": "C:\\Users\\helavin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\helavin\\source\\repos\\Apples\\Apples\\obj\\",
+        "outputPath": "C:\\Users\\helavin\\Source\\Repos\\helavin\\DivideApples\\Apples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\helavin\\AppData\\Roaming\\NuGet\\NuGet.Config",

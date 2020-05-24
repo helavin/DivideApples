@@ -25,7 +25,7 @@ namespace Apples
             {
                 if (!isFirst)
                 {
-                    Console.Write("\n Отправить детей за яблоками ещё раз? (Да - y / Нет - n): ");
+                    Console.Write("\n Отправить детей за яблоками ещё раз? (Да - любая клавиша / Нет - n): ");
                     ifContinue = Console.ReadLine();
                 }
                 isFirst = false;
