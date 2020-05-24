@@ -1,0 +1,13 @@
+C:\Users\helavin\source\repos\Apples\Apples\bin\Release\netcoreapp3.1\Apples.exe
+C:\Users\helavin\source\repos\Apples\Apples\bin\Release\netcoreapp3.1\Apples.deps.json
+C:\Users\helavin\source\repos\Apples\Apples\bin\Release\netcoreapp3.1\Apples.runtimeconfig.json
+C:\Users\helavin\source\repos\Apples\Apples\bin\Release\netcoreapp3.1\Apples.runtimeconfig.dev.json
+C:\Users\helavin\source\repos\Apples\Apples\bin\Release\netcoreapp3.1\Apples.dll
+C:\Users\helavin\source\repos\Apples\Apples\bin\Release\netcoreapp3.1\Apples.pdb
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.csprojAssemblyReference.cache
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.csproj.CoreCompileInputs.cache
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.AssemblyInfoInputs.cache
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.AssemblyInfo.cs
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.dll
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.pdb
+C:\Users\helavin\source\repos\Apples\Apples\obj\Release\netcoreapp3.1\Apples.genruntimeconfig.cache
